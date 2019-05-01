@@ -4,7 +4,8 @@ The files in this repository accompanied an [Adafruit Learning System](https://l
 Adafruit Bluefruit LE Feather Robot Rover 
 https://learn.adafruit.com/bluefruit-feather-robot
 
-The files were mirrored to https://github.com/adafruit/Adafruit_Learning_System_Guides/tree/master/BLE_Robot_Rover
+The files were mirrored to https://github.com/adafruit/Adafruit_Learning_System_Guides/tree/master/BLE_Robot_Rover 
+and this repo was archived.
 
 All code MIT License, please attribute to Adafruit Industries
 
